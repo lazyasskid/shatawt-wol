@@ -1,7 +1,7 @@
 /*
-Each API call costs 5 units!
-Single key can refresh the wall every 45 seconds, while 9 keys are needed for a refresh rate 
-of 5 seconds!
+each api request costs 5 units
+single key refreshes the wall every 45 seconds, 
+while 9 keys are needed for a refresh rate of 5 seconds
 */
 
 // API Key
